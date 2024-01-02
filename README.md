@@ -3,7 +3,7 @@ An Apple 🍎 a Day Keeps a Doctor away... :wink:
 
 
 ## Abstract
-This project is based on the Mobile Application for Online Consultancy for people all around the world 🗺️. This App basically allows us to Consult ourselves while sitting at our Home :home: .
+This project is based on the Mobile Application for Online Consultancy for people all around the world 🗺️. This App basically allows us to Consult ourselves while sitting at our Home.
 
 ## Objective
 The main objective of this application is to help people to cure them and save their Time :watch:, Money :moneybag: and Resources, and save their Lives :heart: as well
@@ -29,7 +29,7 @@ With the help of this application one can prevent their Diseases from spreading 
  - SOS Call
 	 - Entering Number
  - Contact Us
-	 - Call
+	 - Call 📲
 	 - Mail
 	 - Location
 
